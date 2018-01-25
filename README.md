@@ -1,2 +1,2 @@
-# AI-Artist-
-Input an image and the trained dataset will transfer the image to another style of the pictures it was trained with.
+# BeArtistic: Neural-Style-Transfer
+A clever use of Convolution Neural Network's feature extraction property with every preceding layer to produce a referenced artistic effect on any input image. 
